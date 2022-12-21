@@ -1,0 +1,15 @@
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.csproj.AssemblyReference.cache
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.AssemblyInfoInputs.cache
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.AssemblyInfo.cs
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.csproj.CoreCompileInputs.cache
+C:\Users\vanaj\source\repos\Fish9\bin\Debug\net6.0\Fish9.exe
+C:\Users\vanaj\source\repos\Fish9\bin\Debug\net6.0\Fish9.deps.json
+C:\Users\vanaj\source\repos\Fish9\bin\Debug\net6.0\Fish9.runtimeconfig.json
+C:\Users\vanaj\source\repos\Fish9\bin\Debug\net6.0\Fish9.dll
+C:\Users\vanaj\source\repos\Fish9\bin\Debug\net6.0\Fish9.pdb
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.dll
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\refint\Fish9.dll
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.pdb
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\Fish9.genruntimeconfig.cache
+C:\Users\vanaj\source\repos\Fish9\obj\Debug\net6.0\ref\Fish9.dll
